@@ -39,5 +39,5 @@ https://esip.figshare.com/articles/online_resource/Biological_Observation_Data_S
 
 [Essentials of using ERDDAP for data access (video)](https://www.youtube.com/watch?v=N8HuHjj7M9Y)
 
-[SLGO Data management guide](https://ogsl.ca/wp-content/uploads/Data-management-EN.pdf)
+[SLGO Data management guide](https://ogsl.ca/en/data-management-guide/)
 
